@@ -1,10 +1,11 @@
-DEEPAK & POOJA — ROYAL AGRA WEDDING WEBSITE
+DEEPAK & POOJA — ROYAL RAJPUT HERITAGE
 
-1. Extract this ZIP file.
-2. Upload index.html and the complete assets folder to the root of your existing GitHub repository.
-3. GitHub > repository Settings > Pages > Deploy from a branch > main > /(root) > Save.
-4. Your website URL will be https://YOUR-USERNAME.github.io/deepak-pooja-wedding/
+Upload ALL files in this folder to the ROOT of your existing GitHub Pages repository. Do not create an assets folder. Keep filenames exactly as supplied.
 
-Keep the assets folder and all its contents intact. Music is original instrumental and attempts to autoplay; some browsers block sound until a user interacts with the page. The venue photographs are illustrative crops from the supplied design reference, not verified photographs of the actual locations.
+GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
 
-The public site displays the supplied contact phone numbers.
+Caching: asset filenames include content hashes, so changing an asset produces a new URL. site-version.json is fetched with a cache-busting query and no-store hint to detect newly deployed versions. A gentle View update prompt appears if a newer site version is detected. The HTML document itself may remain cached briefly according to GitHub Pages/browser policy. Update the version string in BOTH index.html and site-version.json on future deployments.
+
+Audio: audible autoplay may be blocked by browsers; the music button is provided.
+
+Venue images are illustrative. Contact numbers are public when published.
