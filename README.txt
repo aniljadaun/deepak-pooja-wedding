@@ -1,9 +1,14 @@
-DEEPAK & POOJA — GRAND ROYAL WEDDING WEBSITE
+DEEPAK & POOJA — ROYAL HERITAGE WEDDING WEBSITE
 
-Upload ALL files from this folder into the ROOT of your GitHub Pages repository, including index.html, royal-couple-scene.webp and taj-palace.webp. Do not upload only index.html.
+Upload ALL FOUR files together to the root of your GitHub Pages repository:
+- index.html
+- couple.webp
+- taj.webp
+- royal-romance.mp3
 
-GitHub: repository Settings > Pages > Deploy from branch > main > /(root) > Save. Leave Custom domain blank.
+GitHub repository > Add file > Upload files > Commit changes.
+Repository > Settings > Pages > Deploy from a branch > main > / (root) > Save.
 
-Wedding: 9-10 December 2026. The map links use coordinates supplied by the family. WhatsApp RSVP opens a message for guest to send. No server or paid hosting needed.
+MUSIC: This package includes an original royalty-free instrumental composed for this invitation, not a commercial Bollywood song. Browsers commonly block unmuted autoplay until the visitor interacts with the page. The site attempts autoplay and always provides a Play Music / Pause Music control.
 
-Artwork is a generated illustration, not a photograph of the couple or the actual venues.
+The couple and Taj visuals are stylized decorative artwork, not real photos. Contact numbers are visible publicly. Event times are India Standard Time (IST).
