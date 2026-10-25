@@ -1,14 +1,10 @@
-DEEPAK & POOJA — ROYAL HERITAGE WEDDING WEBSITE
+DEEPAK & POOJA — ROYAL AGRA WEDDING WEBSITE
 
-Upload ALL FOUR files together to the root of your GitHub Pages repository:
-- index.html
-- couple.webp
-- taj.webp
-- royal-romance.mp3
+1. Extract this ZIP file.
+2. Upload index.html and the complete assets folder to the root of your existing GitHub repository.
+3. GitHub > repository Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Your website URL will be https://YOUR-USERNAME.github.io/deepak-pooja-wedding/
 
-GitHub repository > Add file > Upload files > Commit changes.
-Repository > Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Keep the assets folder and all its contents intact. Music is original instrumental and attempts to autoplay; some browsers block sound until a user interacts with the page. The venue photographs are illustrative crops from the supplied design reference, not verified photographs of the actual locations.
 
-MUSIC: This package includes an original royalty-free instrumental composed for this invitation, not a commercial Bollywood song. Browsers commonly block unmuted autoplay until the visitor interacts with the page. The site attempts autoplay and always provides a Play Music / Pause Music control.
-
-The couple and Taj visuals are stylized decorative artwork, not real photos. Contact numbers are visible publicly. Event times are India Standard Time (IST).
+The public site displays the supplied contact phone numbers.
